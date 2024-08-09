@@ -1,0 +1,25 @@
+/* src/App.css */
+
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .counters {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .counter {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
