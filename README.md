@@ -3,7 +3,7 @@ The main purpose of this project is to practice Reach Hooks --> specifically "us
 - [useState-Exercise_Counters](#useState_Counters)
 - [useState-Exercise-The_Light_Bulb](#useState-The_Light_Bulb)
 - [useState-Exercise-ContactForm](#useState-ContactForm)
-- [technologies-used](#Technologies_Used)
+- [Technologies Used](#Technologies-Used)
 
 ---
 
